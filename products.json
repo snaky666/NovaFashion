@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "تيشيرت كلاسيكي أبيض",
+    "description": "قماش قطن مريح 100%",
+    "price": 4500,
+    "image": "https://images.unsplash.com/photo-1600180758890-6b3b0b3f4b9e?w=1200&q=80&auto=format&fit=crop&crop=faces"
+  },
+  {
+    "id": 2,
+    "title": "قميص كاجوال أزرق",
+    "description": "قميص خفيف للنهار",
+    "price": 7800,
+    "image": "https://images.unsplash.com/photo-1520975698514-64e2e7de2f63?w=1200&q=80&auto=format&fit=crop&crop=faces"
+  },
+  {
+    "id": 3,
+    "title": "جاكيت شتوي رمادي",
+    "description": "جاكيت دافئ ومريح",
+    "price": 12500,
+    "image": "https://images.unsplash.com/photo-1600180758708-8ee5a8a2f7d7?w=1200&q=80&auto=format&fit=crop&crop=faces"
+  },
+  {
+    "id": 4,
+    "title": "فستان نسائي أنيق",
+    "description": "تصميم عصري للمناسبات",
+    "price": 19500,
+    "image": "https://images.unsplash.com/photo-1520975698514-9c2b3d1d7f2b?w=1200&q=80&auto=format&fit=crop&crop=faces"
+  },
+  {
+    "id": 5,
+    "title": "حذاء سنيكرز أبيض",
+    "description": "مريح يومي عصري",
+    "price": 9800,
+    "image": "https://images.unsplash.com/photo-1519741496199-3f0f6b7b8ec6?w=1200&q=80&auto=format&fit=crop&crop=faces"
+  },
+  {
+    "id": 6,
+    "title": "قبعة كاجوال",
+    "description": "لمسة نهائية لإطلالتك",
+    "price": 2200,
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15d4a1c5e?w=1200&q=80&auto=format&fit=crop&crop=faces"
+  },
+  {
+    "id": 7,
+    "title": "بنطال جينز رجالي",
+    "description": "قصة مريحة وعصرية",
+    "price": 8500,
+    "image": "https://images.unsplash.com/photo-1520975698514-6f1e5a3a4f1d?w=1200&q=80&auto=format&fit=crop&crop=faces"
+  },
+  {
+    "id": 8,
+    "title": "معطف طويل أنيق",
+    "description": "خامات فاخرة وتطريز أنيق",
+    "price": 26500,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=1200&q=80&auto=format&fit=crop&crop=faces"
+  },
+  {
+    "id": 9,
+    "title": "حقيبة كتف جلدية",
+    "description": "مساحة واسعة وتصميم أنيق",
+    "price": 14200,
+    "image": "https://images.unsplash.com/photo-1514995669114-3b6f06be7ae6?w=1200&q=80&auto=format&fit=crop&crop=faces"
+  },
+  {
+    "id": 10,
+    "title": "تيشيرت رياضي",
+    "description": "قماش مُطّرد التعرق، مثالي للرياضة",
+    "price": 5200,
+    "image": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?w=1200&q=80&auto=format&fit=crop&crop=faces"
+  }
+]
